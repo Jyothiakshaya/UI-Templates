@@ -9,3 +9,4 @@ MAIL TEMPLATE
 Each template reflects attention to detail, modern design principles, and usability. Whether you're a developer looking for inspiration, or a designer exploring layout ideas, these templates can be a valuable resource.
 Feel free to explore, give feedback, and use these templates in your own projects .
 Stay tuned for regular updates with new design concepts!
+
