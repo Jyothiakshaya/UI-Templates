@@ -10,3 +10,4 @@ Each template reflects attention to detail, modern design principles, and usabil
 Feel free to explore, give feedback, and use these templates in your own projects .
 Stay tuned for regular updates with new design concepts!
 
+![image alt](https://github.com/Jyothiakshaya/UI-Templates/blob/1d8221bc3b126a91ae1e6ed8c838cbb80ee4a5c6/Restaurant%20Menu.pdf)
